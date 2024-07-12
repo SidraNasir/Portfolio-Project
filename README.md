@@ -106,7 +106,7 @@ A Power BI dashboard has been created to visualize the insights derived from the
 3. Explore the interactive visualizations to gain insights into the data.
 
 ### How to Access the Report
-1. Download the report file: `Portfolio 1 Final report.docx` from the repository.
+1. Download the report file: `Portfolio 1 Final report.docx`(Portfolio 1 Final report.docx) from the repository.
 2. Open the file using any compatible document viewer, such as Microsoft Word or Google Docs.
 3. Review the report for a detailed analysis and insights derived from the Northwind Traders data.
 
