@@ -101,7 +101,7 @@ A Power BI dashboard has been created to visualize the insights derived from the
 - **Freight Analysis**: Shipping details, cost summaries, and monthly average freight costs.
 
 ### How to Access the Dashboard
-1. Download the Power BI file from the repository: `NorthwindV4.pbix`.
+1. Download the Power BI file from the repository: `https://drive.google.com/file/d/1hartWkzcE85JUDmJnyRE49k6SwS6Yt9W/view?usp=drive_link`.
 2. Open the file using Power BI Desktop.
 3. Explore the interactive visualizations to gain insights into the data.
 
@@ -111,5 +111,7 @@ A Power BI dashboard has been created to visualize the insights derived from the
 3. Review the report for a detailed analysis and insights derived from the Northwind Traders data.
 
 ---
+
+
 
 
