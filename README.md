@@ -1,11 +1,6 @@
 
 # Northwind Traders - IEC Portfolio 1
 
-## Authors
-- Sidra Nasir
-- Danish Younas Khan
-- Ghulam Nabi
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Dictionary](#data-dictionary)
@@ -14,6 +9,8 @@
 - [Product & Customer Analysis](#product--customer-analysis)
 - [Freight Analysis](#freight-analysis)
 - [Recommendations](#recommendations)
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Portfolio 1 Final Report](#portfolio-1-final-report)
 
 ## Project Overview
 This project is part of the IEC Portfolio 1 and aims to analyze various datasets from Northwind Traders to derive insights for improving business processes. The analysis includes sales trends, inventory management, customer purchasing behavior, and freight cost optimization.
@@ -21,8 +18,7 @@ This project is part of the IEC Portfolio 1 and aims to analyze various datasets
 ## Data Dictionary
 The project uses several tables from the Northwind Traders database, including:
 
-- **Categories**[Portfolio 1 Final report.docx](https://github.com/user-attachments/files/16188559/Portfolio.1.Final.report.docx)
-
+- **Categories**
   - `CategoryID`: int - Unique identifier for each category.
   - `CategoryName`: text - Name of the category.
   - `Description`: text - Description of the category.
@@ -97,4 +93,23 @@ Based on the analysis, the following recommendations are provided:
 - **Sales Strategies**: Implement promotional strategies for slow-moving products.
 - **Shipping Optimization**: Optimize shipping routes and negotiate better rates with carriers.
 
+## Power BI Dashboard
+A Power BI dashboard has been created to visualize the insights derived from the analysis. The dashboard includes interactive visualizations for the following aspects:
+- **Sales Trends**: Monthly and yearly sales trends.
+- **Inventory Management**: Inventory turnover rates and reorder frequencies.
+- **Customer Analysis**: Total sales by product and customer, category-wise breakdowns.
+- **Freight Analysis**: Shipping details, cost summaries, and monthly average freight costs.
+
+### How to Access the Dashboard
+1. Download the Power BI file from the repository: `NorthwindV4.pbix`.
+2. Open the file using Power BI Desktop.
+3. Explore the interactive visualizations to gain insights into the data.
+
+### How to Access the Report
+1. Download the report file: `Portfolio 1 Final report.docx` from the repository.
+2. Open the file using any compatible document viewer, such as Microsoft Word or Google Docs.
+3. Review the report for a detailed analysis and insights derived from the Northwind Traders data.
+
 ---
+
+
