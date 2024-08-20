@@ -132,9 +132,11 @@ Identified key churn factors like total call minutes and support interactions.
 Recommended strategies for high-risk segments and service plan adjustments.
 
 ### Links
-[Python Notebook](https://colab.research.google.com/drive/1-aTm6VYNpCsMgtTYR4HNHnxVhACHN_Yb).
-[Portfolio 2 Final report.docx]() 
-[PowerBI Dashboard]() 
+ [Python Notebook](https://colab.research.google.com/drive/1-aTm6VYNpCsMgtTYR4HNHnxVhACHN_Yb).
+ 
+ [Portfolio 2 Final report.docx]() 
+ 
+ [PowerBI Dashboard]() 
 
 
 
