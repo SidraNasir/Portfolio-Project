@@ -112,6 +112,29 @@ A Power BI dashboard has been created to visualize the insights derived from the
 
 ---
 
+# Telcom Customer Churn Analysis
+## Overview
+This project analyzes customer churn in the telecom industry, identifying key factors that influence churn and developing a predictive model to highlight high-risk customers. The insights aim to support targeted retention strategies.
+
+## Dataset
+The dataset contains 2666 rows and 20 columns, including customer demographics, usage patterns, service plans, and support interactions.
+
+## Key Features
+**Churn Prediction Model**: Identifies high-risk churn customers.
+**Customer Segmentation**: Groups customers by churn risk and CLV.
+**Churn Analysis**: Evaluates the impact of service plans, pricing, and support on churn.
+## Analysis Steps
+**EDA & Data Wrangling**: Explored and cleaned the dataset, identifying key churn factors.
+**Model Development**: Built and validated a churn prediction model.
+**Segmentation**: Grouped customers by churn risk, providing actionable insights.
+## Results & Recommendations
+Identified key churn factors like total call minutes and support interactions.
+Recommended strategies for high-risk segments and service plan adjustments.
+
+### Links
+[Python Notebook](https://colab.research.google.com/drive/1-aTm6VYNpCsMgtTYR4HNHnxVhACHN_Yb).
+[Portfolio 2 Final report.docx]() 
+[PowerBI Dashboard]() 
 
 
 
