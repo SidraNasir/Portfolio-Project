@@ -136,7 +136,7 @@ Recommended strategies for high-risk segments and service plan adjustments.
  
  [Portfolio 2 Final report.docx]() 
  
- [PowerBI Dashboard]() 
+ [PowerBI Dashboard](https://github.com/SidraNasir/Portfolio-Project/blob/main/IEC%20Portfolio%202%20Dashboard.pbix) 
 
 
 
