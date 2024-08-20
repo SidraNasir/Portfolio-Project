@@ -134,7 +134,7 @@ Recommended strategies for high-risk segments and service plan adjustments.
 ### Links
  [Python Notebook](https://colab.research.google.com/drive/1-aTm6VYNpCsMgtTYR4HNHnxVhACHN_Yb).
  
- [Portfolio 2 Final report.docx]() 
+ [Portfolio 2 Final report.docx](https://github.com/SidraNasir/Portfolio-Project/blob/main/IEC%20Portfolio%202%20Report.docx) 
  
  [PowerBI Dashboard](https://github.com/SidraNasir/Portfolio-Project/blob/main/IEC%20Portfolio%202%20Dashboard.pbix) 
 
